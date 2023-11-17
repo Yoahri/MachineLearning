@@ -50,4 +50,3 @@ mean_validation_mae = sum(validation_maes) / len(validation_maes)
 
 print(f'MAE médio para a base de treino: {mean_train_mae}')
 print(f'MAE médio para a base de validação: {mean_validation_mae}')
-print(data)
